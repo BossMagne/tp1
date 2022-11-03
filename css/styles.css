@@ -1,0 +1,56 @@
+/* Feuille de styles CSS */
+
+
+i {
+
+    color: blue;
+}
+
+#container {
+    background-color:white;
+    width: 600px;
+    margin: 32px auto;
+    padding: 1.5rem;
+}
+
+body {
+    background: #eeeeee;
+    background-repeat:no-repeat;
+    font-family: sans-serif;
+}
+
+H1 { text-align: center }
+
+p {
+    margin: 0.5rem 0px;
+    text-align: justify;
+    line-height: 1.2rem;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+p {
+    font-size: 16px;
+}
+
+.Blue {
+
+color: blue;
+}
+.Right {
+
+    text-align: right;
+}
+.top {
+ color: blue;
+
+}
+table, th, td {
+
+border: 2px solid black
+}
+
+html { scroll-behavior: smooth; }
